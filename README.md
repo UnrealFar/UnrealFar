@@ -1,0 +1,4 @@
+- 👋 Hi, I’m PikaPi!
+- 👀 I’m interested in Discord bots!
+- 🌱 I’m currently learning python
+- 📫 Contact me on discord!
