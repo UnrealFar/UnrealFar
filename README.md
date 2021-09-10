@@ -1,4 +1,4 @@
-- 👋 Hi, I’m PikaPi!
-- 👀 I’m interested in Discord bots!
+- 👋 Hi, I’m FarGG!
+- 👀 I’m interested developing in Discord bots!
 - 🌱 I’m currently learning python
 - 📫 Contact me on discord!
