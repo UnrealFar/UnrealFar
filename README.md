@@ -1,4 +1,11 @@
-- 👋 Hi, I’m FarGG!
-- 👀 I’m interested developing in Discord bots!
-- 🌱 I’m currently learning python
-- 📫 Contact me on discord!
+## Hey! I'm TheFarGG, a 14 developer!
+I love to make bots, websites and all coding related stuff!
+
+#### Languages
+- Python(Intermediate)
+- JS(Newbie)
+<br><br>
+
+### Stats
+---
+<img align="left" alt="TheFarGG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFarGG&count_private=true&show_icons=true&theme=radical">
