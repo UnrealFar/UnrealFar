@@ -1,4 +1,4 @@
-## Hey! I'm TheFarGG, a 14 developer!
+## Hey! I'm TheFarGG!
 I love to make bots, websites and all coding related stuff!
 
 #### Languages
