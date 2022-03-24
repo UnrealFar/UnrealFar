@@ -2,8 +2,9 @@
 I love to make bots, websites and all coding related stuff!
 
 #### Languages
-- Python(Intermediate)
-- JS(Newbie)
+- Python(Advanced)
+- JavaScript(Newbie)
+- Visual Basic 6(Intermediate)
 <br><br>
 
 ### Stats
