@@ -1,4 +1,4 @@
-## Hey! I'm TheFarGG!
+## Hey! I'm UnrealFar!
 I love to make bots, websites and all coding related stuff!
 
 #### Languages
