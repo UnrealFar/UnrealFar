@@ -1,11 +1,9 @@
 ## Hey! I'm UnrealFar!
 I love to make bots, websites and all coding related stuff!
 
-#### Languages
-- Python(Advanced)
-- JavaScript(Newbie)
-- Visual Basic 6(Intermediate)
-<br><br>
+### Linguistic skills
+- **Programming**: Python, HTML
+- **IRL**: English, Hindi Malayalam
 
 ### Stats
 <img align="left" alt="UnrealFar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UnrealFar&count_private=true&show_icons=true&theme=radical&width=200&height=200">
