@@ -1,4 +1,4 @@
-## Hey! I'm UnrealFar!
+## Hey! I'm Farhan, AKA UnrealFar!
 I love to make bots, websites and all coding related stuff!
 
 ### Linguistic skills
