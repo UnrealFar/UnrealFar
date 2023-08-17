@@ -17,6 +17,7 @@
 ### Contact
 Feel free to contact if you have any issues or questions regarding my projects.
 - [**Email**](mailto:unrealreply@gmail.com)
-- [**Instagram**](https://instagram.com/unrealfar)
+- [**Instagram**](https://instagram.com/unrealfarrr)
 - [**Discord**](https://discord.com/users/859996173943177226)
 
+[![](https://visitcount.itsvg.in/api?id=UnrealFar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
