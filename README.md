@@ -6,6 +6,7 @@
 - Python
 - C++
 - JS
+- Java
 - HTML
 - CSS
 
@@ -20,8 +21,8 @@
 ### Contact
 Feel free to contact if you have any issues or questions regarding my projects.
 - [**Email**](mailto:unrealreply@gmail.com)
-- [**Instagram**](https://instagram.com/unrealfarrr)
-- [**Discord**](https://discord.com/users/859996173943177226)
+- [**Instagram @unrealfar**](https://instagram.com/unrealfar)
+- [**Discord @unrealfar**](https://discord.com/users/859996173943177226)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farrr&label=Profile%20views&color=0e75b6&style=flat" alt="farrr"/> </p>
