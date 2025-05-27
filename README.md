@@ -20,7 +20,7 @@
 
 ### Contact
 Feel free to contact if you have any issues or questions regarding my projects.
-- [**Email**](mailto:unrealreply@gmail.com)
+- [**Email**](mailto:15farhanahmed06@gmail.com)
 - [**Instagram @unrealfar**](https://instagram.com/unrealfar)
 - [**Discord @unrealfar**](https://discord.com/users/859996173943177226)
 
