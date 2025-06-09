@@ -5,6 +5,7 @@
 ### Linguistic skills
 - Python
 - C++
+- Rust
 - JS
 - Java
 - HTML
