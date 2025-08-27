@@ -4,10 +4,10 @@
 
 ### Linguistic skills
 - Python
+- C
 - C++
 - Rust
 - JS
-- Java
 - HTML
 - CSS
 
