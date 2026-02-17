@@ -10,6 +10,9 @@
 - JS
 - HTML
 - CSS
+- Javascript
+- Java
+- Brainfuck
 
 ### Support me
 - [Get me a   ☕](https://ko-fi.com/farrr)
