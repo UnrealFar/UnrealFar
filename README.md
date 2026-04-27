@@ -5,13 +5,13 @@
 ### Linguistic skills
 - Python
 - C
+- Java
 - C++
 - Rust
 - JS
 - HTML
 - CSS
 - Javascript
-- Java
 - Brainfuck
 
 ### Support me
