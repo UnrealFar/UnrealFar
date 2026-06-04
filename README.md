@@ -12,7 +12,7 @@
 - HTML/CSS
 
 ### Featured Projects
-⭐ [PyTweet](https://github.com/pytweet/pyweet) - Python wrapper for the Twitter API<br>
+⭐ [PyTweet](https://github.com/pytweet/pytweet) - Python wrapper for the Twitter API<br>
 ⭐ [Unwrapped](https://github.com/UnrealFar/UnWrapped) - Analyze and visualize Spotify listening statistics<br>
 ⭐ [Discode](https://github.com/UnrealFar/Discode) - Discord Gateway and REST API Wrapper for Python<br>
 
@@ -23,7 +23,7 @@
 Feel free to contact if you have any issues or questions regarding my projects.
 - [**LinkedIn**](https://www.linkedin.com/in/farhan-ahmed-15226b361/)
 - [**Email**](mailto:15farhanahmed06@gmail.com)
-- [**Instagram @__farhan__ahmed_**](https://instagram.com/__farhan__ahmed_)
+- [**Instagram @\_\_farhan\_\_ahmed\_**](https://instagram.com/__farhan__ahmed_)
 - [**Discord @unrealfar**](https://discord.com/users/859996173943177226)
 
 
